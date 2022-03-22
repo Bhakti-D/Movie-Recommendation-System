@@ -15,5 +15,7 @@ Approach to build this movie recommendation system is Content-based filtering. C
 #### Web API is build in streamlit
 Command to run the app in local machine– streamlit run app.py
 
+Data Source - https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+
 This model has been depolyed to Heroku app- 
 #### Link for the app -  https://movie-recommendation-for-you.herokuapp.com/
