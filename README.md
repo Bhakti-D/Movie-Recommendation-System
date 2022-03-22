@@ -1,5 +1,5 @@
 # Movie-Recommendation-System
-Recommend a movie to user given the title as input
+
 
 ### Objective - Build a movie recommendation system which makes recommendations given the title of the movie as input.
 
